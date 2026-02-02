@@ -46,10 +46,20 @@ Near Marrakesh Airport
 ---
 
 ## Costs
+
+**Flights**
 - Multi-city: $564
 - Ryanair: $69.80
 - Points flight: 10k C1 pts + $50
-- **Total: $683.80 + 10k points**
+- Flights total: $683.80 + 10k points
+
+**Lodging & Experiences**
+- Marrakesh Riad: $150
+- Desert Tour: $261
+- Airport Hotel: $75
+- Lodging total: $486
+
+**Total: $1,169.80 + 10k points**
 
 ## Baggage
 - SEA-LHR: 1 carry-on free, 1st bag $75
