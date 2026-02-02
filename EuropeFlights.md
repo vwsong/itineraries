@@ -3,12 +3,12 @@
 
 ## Quick Booking Guide
 1. **Multi-city (Google Flights):** SEA → LHR + BCN → SEA - $564 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
-2. **Ryanair:** LHR → Marrakesh - $69.80
-3. **BA Avios:** Marrakesh → BCN - 10k C1 points + $50
+2. **Ryanair:** STN → RAK - $69.80
+3. **BA Avios:** RAK → BCN - 10k C1 points + $50
    * Transfer C1 points to your British Airways Avios account, and search for RAK → BCN on April 17
 4. **Marrakesh Riad:** Apr 12-14 - [Link TBD]
 5. **Desert Tour:** Apr 14-16 - [GetYourGuide](https://www.getyourguide.com/marrakesh-l208/marrakech-to-merzouga-3-day-desert-adventure-t482521/)
-6. **Airport Hotel:** Apr 16-17
+6. **Airport Hotel:** Apr 16-17 - [Link TBD]
 
 ⚠️ Note: 6.5h to transfer Heathrow → Stansted between flights 1 & 2
 
@@ -21,9 +21,10 @@
 * ↗ 7:05 PM ORD, ↘ 9:05 AM+1 LHR • BA 298
 * Total: 13h 49m
 
-📆 April 12 ✈️ Flight 2: London → Marrakesh
+📆 April 12 ✈️ Flight 2: London → Marrakesh 
 * ↗ 3:35 PM STN, ↘ 7:15 PM RAK • Ryanair RK 7870
 * Total: 3h 40m
+* V+C are on this flight
 
 📆 April 12-14 🏨 Hotel: Marrakesh Riad
 [Link TBD]
@@ -43,6 +44,7 @@ Near Marrakesh Airport
 * ↗ 12:50 PM BCN, ↘ 3:45 PM PHL (3h 2m layover) • AA 743
 * ↗ 6:47 PM PHL, ↘ 9:52 PM SEA • AS 443
 * Total: 18h 2m
+* V+C are on the BCN > PHL leg
 
 ---
 
