@@ -5,7 +5,7 @@
 1. **JAL International Award Tickets:** SEA ⇄ NRT (Business Class)
    * Book through JAL Mileage Bank: [https://www.jal.co.jp/](https://www.jal.co.jp/)
    * Transfer Capital One miles to JAL (1000 C1 → 975 JAL miles)
-   * Required: 225,641 Capital One miles + $917.66 USD
+   * Required per person: 112,821 Capital One miles + $458.83 USD
 
 ---
 
@@ -30,26 +30,26 @@
 
 ---
 
-## Costs
+## Costs (Per Person)
 
-**JAL Miles (2 Adults)**
-- Outbound (SEA → NRT): 110,000 miles
-- Return (NRT → SEA): 110,000 miles
-- **Total JAL Miles: 220,000 miles**
+**JAL Miles**
+- Outbound (SEA → NRT): 55,000 miles
+- Return (NRT → SEA): 55,000 miles
+- **Total JAL Miles: 110,000 miles**
 
-**Fees & Taxes (2 Adults)**
-- Outbound: $393.60 USD
-  - Fuel and insurance surcharge: $335.60
-  - Taxes: $58.00
-- Return: $524.06 USD
-- **Total Fees: $917.66 USD**
+**Fees & Taxes**
+- Outbound: $196.80 USD
+  - Fuel and insurance surcharge: $167.80
+  - Taxes: $29.00
+- Return: $262.03 USD
+- **Total Fees: $458.83 USD**
 
 **Capital One Miles Required**
 - Transfer bonus: 1000 C1 miles → 975 JAL miles
-- To get 220,000 JAL miles: **225,641 Capital One miles**
-- Plus fees: **$917.66 USD**
+- To get 110,000 JAL miles: **112,821 Capital One miles**
+- Plus fees: **$458.83 USD**
 
-**Grand Total: 225,641 C1 miles + $917.66 USD**
+**Grand Total: 112,821 C1 miles + $458.83 USD**
 
 ---
 
