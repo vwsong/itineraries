@@ -2,9 +2,10 @@
 *April 11-21, 2025*
 
 ## Quick Booking Guide
-1. **Multi-city (Google Flights):** SEA → LHR + BCN → SEA - $564
+1. **Multi-city (Google Flights):** SEA → LHR + BCN → SEA - $564 - [Book here](https://www.google.com/travel/flights/s/4YhkvmxotSyCpZQG9)
 2. **Ryanair:** LHR → Marrakesh - $69.80
 3. **BA Avios:** Marrakesh → BCN - 10k C1 points + $50
+   * Transfer C1 points to your British Airways Avios account, and search for RAK → BCN on April 17
 4. **Marrakesh Riad:** Apr 12-14 - [Link TBD]
 5. **Desert Tour:** Apr 14-16 - [GetYourGuide](https://www.getyourguide.com/marrakesh-l208/marrakech-to-merzouga-3-day-desert-adventure-t482521/)
 6. **Airport Hotel:** Apr 16-17
