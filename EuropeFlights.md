@@ -12,35 +12,24 @@
 
 ## Flight Itinerary
 
-**Flight 1: SEA → London (Apr 11)**
-- 11:16 AM - Depart SEA
-- 5:46 PM - Arrive ORD (1h 19m layover)
-- 7:05 PM - Depart ORD
-- 9:05 AM+1 - Arrive LHR
-- AA 2775, BA 298
-- Total: 13h 49m
+Flight 1: SEA → London (Apr 11)
+* ↗ 11:16 AM SEA, ↘ 5:46 PM ORD (1h 19m layover) • AA2775
+* ↗ 7:05 PM ORD, ↘ 9:05 AM+1 LHR • BA 298
+* Total: 13h 49m
 
-**Flight 2: London → Marrakesh (Apr 12)**
-- 3:35 PM - Depart STN (London Stansted)
-- 7:15 PM - Arrive RAK
-- Ryanair RK 7870
-- Total: 3h 40m
+Flight 2: London → Marrakesh (Apr 12)
+* ↗ 3:35 PM STN, ↘ 7:15 PM RAK • Ryanair RK 7870
+* Total: 3h 40m
 
-**Flight 3: Marrakesh → Barcelona (Apr 17)**
-- 1:00 PM - Depart RAK
-- 4:00 PM - Arrive MAD (2h layover)
-- 6:00 PM - Depart MAD
-- 7:15 PM - Arrive BCN
-- IB1852, IB0421
-- Total: 5h 15m
+Flight 3: Marrakesh → Barcelona (Apr 17)
+* ↗ 1:00 PM RAK, ↘ 4:00 PM MAD (2h layover) • IB1852
+* ↗ 6:00 PM MAD, ↘ 7:15 PM BCN • IB0421
+* Total: 5h 15m
 
-**Flight 4: Barcelona → SEA (Apr 21)**
-- 12:50 PM - Depart BCN
-- 3:45 PM - Arrive PHL (3h 2m layover)
-- 6:47 PM - Depart PHL
-- 9:52 PM - Arrive SEA
-- AA 743, AS 443
-- Total: 18h 2m
+Flight 4: Barcelona → SEA (Apr 21)
+* ↗ 12:50 PM BCN, ↘ 3:45 PM PHL (3h 2m layover) • AA 743
+* ↗ 6:47 PM PHL, ↘ 9:52 PM SEA • AS 443
+* Total: 18h 2m
 
 ---
 
