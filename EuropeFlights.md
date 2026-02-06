@@ -13,8 +13,6 @@
 
 ## Itinerary
 
-**Vincent and Constance's itinerary:** Land Marrakesh Sun Apr 12 → Riad (Apr 12-14) → Desert Tour (Apr 14-16) → Airport Hotel (Apr 16-17) → AT 402/960 to Barcelona (Apr 17)
-
 📆 April 11-12 ✈️ Flight 1: Seattle → Barcelona
 * ↗ 8:00 AM SEA, ↘ 3:54 PM YYZ (3h 36m layover) • AC 542 • A220-300
 * ↗ 7:30 PM YYZ, ↘ 9:20 AM+1 BCN • AC 820 • 777-300ER (widebody, overnight)
@@ -63,6 +61,4 @@ Near Marrakesh Airport
 
 *\* Eligible for Capital One Venture X $300 travel credit (bookable on C1 Travel Portal)*
 
-## Baggage
-- Air Canada: 1 carry-on + 1 personal item free, checked bag fees vary
-- Ryanair: Check at booking
+**Vincent and Constance's itinerary:** Land Marrakesh Sun Apr 12 → Riad (Apr 12-14) → Desert Tour (Apr 14-16) → Airport Hotel (Apr 16-17) → AT 402/960 to Barcelona (Apr 17)
